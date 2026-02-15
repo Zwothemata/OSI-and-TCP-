@@ -1,7 +1,7 @@
 # OSI vs TCP/IP Network Models Visualizer
 
 An interactive **Jupyter Notebook project** that visually compares the **OSI** and **TCP/IP** networking models using both **static diagrams** and **animated mappings**.  
-This project is designed to help students and beginners clearly understand how the two models relate to each other layer-by-layer.
+This project is designed to help students clearly understand how the two models relate to each other layer-by-layer.
 
 ---
 
