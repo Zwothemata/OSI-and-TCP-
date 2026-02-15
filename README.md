@@ -69,6 +69,7 @@ Install dependencies using:
 ```bash
 pip install matplotlib ipywidgets notebook
 
-
+### How to Run
+git clone https://github.com/yourusername/osi-tcpip-visualizer.git
 
 
