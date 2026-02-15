@@ -74,7 +74,7 @@ Install dependencies using:
 pip install matplotlib ipywidgets notebook
 
 ---
-```bash
+```
 **How to Run** 
 
 1. Clone this repository:
