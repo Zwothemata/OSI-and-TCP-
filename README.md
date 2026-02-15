@@ -30,6 +30,8 @@ This visualizer transforms theory into **interactive visuals**, making it easier
 - Step-by-step layer mapping
 - Helps learners grasp abstraction differences
 
+![image alt]( 
+
 ### Educational Focus
 - Beginner-friendly design
 - Suitable for classroom demonstrations
