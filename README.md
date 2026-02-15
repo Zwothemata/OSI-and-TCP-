@@ -74,7 +74,7 @@ Install dependencies using:
 pip install matplotlib ipywidgets notebook
 
 ---
-
+```bash
 **How to Run** 
 
 1. Clone this repository:
@@ -85,9 +85,11 @@ git clone https://github.com/yourusername/osi-tcpip-visualizer.git
 ```bash
 cd osi-tcpip-visualizer
 
+```
 3. Launch Jupyter Notebook:
+   
 ```bash
 jupyter notebook
-
+```
 4. Open the notebook file.
 5. Run all cells sequentially.
