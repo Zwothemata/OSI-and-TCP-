@@ -75,12 +75,12 @@ pip install matplotlib ipywidgets notebook
 
 ---
 
-##  How to Run
+**How to Run** 
 
 1. Clone this repository:
 ```bash
 git clone https://github.com/yourusername/osi-tcpip-visualizer.git
-
+```
 2. Navigate into the project folder:
 ```bash
 cd osi-tcpip-visualizer
