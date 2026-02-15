@@ -5,7 +5,7 @@ This project is designed to help students clearly understand how the two models 
 
 ---
 
-## 📌 Project Purpose
+##  Project Purpose
 Networking models are often difficult to understand from textbooks alone.  
 This visualizer transforms theory into **interactive visuals**, making it easier to:
 
@@ -16,7 +16,7 @@ This visualizer transforms theory into **interactive visuals**, making it easier
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Static Visualization
 - Side-by-side comparison of OSI and TCP/IP layers
@@ -35,7 +35,7 @@ This visualizer transforms theory into **interactive visuals**, making it easier
 
 ---
 
-## 🧠 Networking Models Overview
+##  Networking Models Overview
 
 ### OSI Model (7 Layers)
 | Layer | Function |
@@ -58,7 +58,7 @@ This visualizer transforms theory into **interactive visuals**, making it easier
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 - Python **3.8+**
 - Jupyter Notebook / JupyterLab
@@ -69,7 +69,6 @@ Install dependencies using:
 ```bash
 pip install matplotlib ipywidgets notebook
 
-### How to Run
-git clone https://github.com/yourusername/osi-tcpip-visualizer.git
+
 
 
