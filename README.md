@@ -23,6 +23,8 @@ This visualizer transforms theory into **interactive visuals**, making it easier
 - Color-coded layer blocks
 - Clean and readable layout
 
+  ![image alt](https://github.com/Zwothemata/OSI-and-TCP-/blob/main/Screenshot%20(211).png?raw=true)
+
 ### Animated Visualization
 - Smooth arrow animation showing relationships
 - Step-by-step layer mapping
