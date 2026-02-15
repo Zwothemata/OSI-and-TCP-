@@ -30,7 +30,7 @@ This visualizer transforms theory into **interactive visuals**, making it easier
 - Step-by-step layer mapping
 - Helps learners grasp abstraction differences
 
-![image alt](https://github.com/Zwothemata/OSI-and-TCP-/blob/main/Screenshot%20(212).png?raw=true)
+  ![image alt](https://github.com/Zwothemata/OSI-and-TCP-/blob/main/Screenshot%20(212).png?raw=true)
 
 ### Educational Focus
 - Beginner-friendly design
